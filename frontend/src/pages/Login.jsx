@@ -21,7 +21,7 @@
 
 //     try {
 //       const res = await axios.post(
-//         "http://localhost:5001/api/auth/login",
+//         "https://nutra1-project-1.onrender.com/api/auth/login",
 //         form
 //       );
 
@@ -439,7 +439,7 @@ const Login = () => {
     }
     setLoading(true);
     try {
-      const res = await axios.post("http://localhost:5001/api/auth/login", form);
+      const res = await axios.post("https://nutra1-project-1.onrender.com/api/auth/login", form);
       localStorage.setItem("token", res.data.token);
       localStorage.setItem("role",  res.data.role);
       navigate("/");

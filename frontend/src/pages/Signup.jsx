@@ -22,7 +22,7 @@
 
 //     try {
 //       await axios.post(
-//         "http://localhost:5001/api/auth/signup",
+//         "https://nutra1-project-1.onrender.com/api/auth/signup",
 //         form,
 //         {
 //           headers: { "Content-Type": "application/json" },
@@ -564,7 +564,7 @@ const Signup = () => {
     setLoading(true);
     try {
       await axios.post(
-        "http://localhost:5001/api/auth/signup",
+        "https://nutra1-project-1.onrender.com/api/auth/signup",
         form,
         { headers: { "Content-Type": "application/json" } }
       );

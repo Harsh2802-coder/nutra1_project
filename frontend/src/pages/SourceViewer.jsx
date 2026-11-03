@@ -2,7 +2,7 @@ import { useSearchParams, useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
 import axios from "axios";
 
-const PROXY_BASE = "http://localhost:5001/api/proxy";
+const PROXY_BASE = "https://nutra1-project-1.onrender.com/api/proxy";
 
 const isSafeUrl = (url) => {
   try {

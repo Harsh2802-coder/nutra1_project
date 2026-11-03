@@ -518,7 +518,7 @@
 //   /* ── Load disease list ── */
 //   useEffect(() => {
 //     axios
-//       .get("http://localhost:5001/api/nutra/diseases")
+//       .get("https://nutra1-project-1.onrender.com/api/nutra/diseases")
 //       .then((res) => setAllDiseases(res.data))
 //       .catch(() => {});
 //   }, []);
@@ -585,7 +585,7 @@
 //     setLoading(true);
 //     try {
 //       const res = await axios.post(
-//         "http://localhost:5001/api/nutra/search",
+//         "https://nutra1-project-1.onrender.com/api/nutra/search",
 //         { disease: query }
 //       );
 //       setResult(res.data);
@@ -794,7 +794,7 @@ const UserDashboard = () => {
 
   useEffect(() => {
     axios
-      .get("http://localhost:5001/api/nutra/diseases")
+      .get("https://nutra1-project-1.onrender.com/api/nutra/diseases")
       .then((res) => {
         setAllDiseases(res.data);
       })
@@ -817,7 +817,7 @@ const UserDashboard = () => {
 
     try {
       const res = await axios.post(
-        "http://localhost:5001/api/nutra/search",
+        "https://nutra1-project-1.onrender.com/api/nutra/search",
         {
           disease: query,
         }
