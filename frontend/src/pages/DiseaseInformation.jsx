@@ -18,7 +18,7 @@ const DiseaseInformation = () => {
         setError("");
 
         const response = await axios.post(
-          "https://nutra1-project-1.onrender.com/api/nutra/search",
+          "https://nutra1-project-2.onrender.com/api/nutra/search",
           {
             disease: disease,
           }
