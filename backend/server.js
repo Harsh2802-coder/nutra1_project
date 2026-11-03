@@ -59,23 +59,24 @@ const app = express();
 // ===== CORS CONFIGURATION =====
 const allowedOrigins = [
   "http://localhost:5173",
+  "https://nutra1-project-e15w.vercel.app",
   process.env.FRONTEND_URL,
 ].filter(Boolean);
 
 app.use(
   cors({
     origin: (origin, callback) => {
-      // Allow requests without an Origin header
       if (!origin || allowedOrigins.includes(origin)) {
         return callback(null, true);
       }
 
+      console.log("Blocked CORS origin:", origin);
       return callback(new Error("Origin not allowed by CORS"));
     },
-    credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
   })
 );
+
 
 // ===== MIDDLEWARE =====
 app.use(express.json());
