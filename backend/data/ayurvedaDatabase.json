@@ -1,8 +1,8 @@
 {
-
   "diabetes": {
     "diseaseImage": "https://media.istockphoto.com/id/1280251169/photo/world-diabetes-day-awareness-concept-the-diabetic-measures-the-level-of-glucose-in-the-blood.jpg?s=612x612&w=0&k=20&c=I2jo3Upbhc400oRey4QfaFE_0EAuuhn8EvvdHXqFZsM=",
     "informationLink": "https://medlineplus.gov/diabetes.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Fenugreek (Methi)",
@@ -370,11 +370,10 @@
       }
     ]
   },
-
-
   "migraine": {
     "diseaseImage": "https://media.istockphoto.com/id/511735934/photo/feeling-stressed.jpg?s=612x612&w=0&k=20&c=bRo19DzLWLIOuDwyBzkX56gdEYkphj7naBmv76DHJNs=",
     "informationLink": "https://medlineplus.gov/migraine.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Brahmi",
@@ -728,15 +727,11 @@
         "safety": "Safe in moderate amounts"
       }
     ]
-  }
-
-
-
-,
-
+  },
   "hypertension": {
     "diseaseImage": "https://media.istockphoto.com/id/873891794/photo/doctor-measuring-blood-pressure-of-patient.jpg?s=612x612&w=0&k=20&c=jtehUFdLwMJe7Vb5vzicqUiEmBXZV4B0ABywcI5vkHk=",
     "informationLink": "https://medlineplus.gov/highbloodpressure.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Garlic",
@@ -1103,13 +1098,11 @@
         "safety": "Avoid after heart attack without doctor guidance; may cause nausea in high doses; interacts with sildenafil"
       }
     ]
-  }
-
-,
-  
+  },
   "asthma": {
     "diseaseImage": "https://media.istockphoto.com/id/1641029118/photo/asthma-inhaler.jpg?s=612x612&w=0&k=20&c=j2dGc0FcjpZGOKZ7tPbeRrYQSO7uV9jfDRZTukel4Ek=",
     "informationLink": "https://medlineplus.gov/asthma.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Tulsi (Holy Basil)",
@@ -1476,526 +1469,1098 @@
         "safety": "Avoid roots during pregnancy"
       }
     ]
-  }
-,
-  
+  },
   "arthritis": {
     "diseaseImage": "https://media.istockphoto.com/id/1310226894/photo/jogging-injury-warp-up-before-any-exercise-coopy-space-for-text.jpg?s=612x612&w=0&k=20&c=zEwiimCgB7NWeI8V25lbzWJBQ13luJ0CVD1r8MABy-E=",
     "informationLink": "https://medlineplus.gov/arthritis.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Turmeric",
         "plantImage": "https://media.istockphoto.com/id/505751448/photo/turmeric.jpg?s=612x612&w=0&k=20&c=ne_NLSJPPz3ZaxT1vjzzytYbceHl8tgn_OCI6hXHnP8=",
-        "advicePoints": ["Take with warm milk","Reduces joint inflammation","Relieves pain","Improves mobility","Acts as antioxidant","Supports overall joint health"],
+        "advicePoints": [
+          "Take with warm milk",
+          "Reduces joint inflammation",
+          "Relieves pain",
+          "Improves mobility",
+          "Acts as antioxidant",
+          "Supports overall joint health"
+        ],
         "safety": "Avoid high doses"
       },
       {
         "name": "Ginger",
         "plantImage": "https://media.istockphoto.com/id/1188952028/photo/ginger-tea-with-lemon-and-mint.jpg?s=612x612&w=0&k=20&c=htajS9zPT24RZafLrPVZ-D4fV1E9NvqvPXxn5QVlpfc=",
-        "advicePoints": ["Consume as tea or raw","Reduces inflammation","Relieves stiffness","Improves blood circulation","Reduces joint pain","Supports mobility"],
+        "advicePoints": [
+          "Consume as tea or raw",
+          "Reduces inflammation",
+          "Relieves stiffness",
+          "Improves blood circulation",
+          "Reduces joint pain",
+          "Supports mobility"
+        ],
         "safety": "Avoid excessive intake"
       },
       {
         "name": "Ashwagandha",
         "plantImage": "https://media.istockphoto.com/id/1684694377/photo/commonly-known-as-ashwagandha-is-an-important-medicinal-plant-that-has-been-used-in-ayurved.jpg?s=612x612&w=0&k=20&c=MMZClWMSh4biqSY0Rjm5HDhqWVRIX-mnm2Dy5hYuP8c=",
-        "advicePoints": ["Take daily as supplement","Reduces inflammation","Improves strength","Supports muscle recovery","Reduces stress","Enhances mobility"],
+        "advicePoints": [
+          "Take daily as supplement",
+          "Reduces inflammation",
+          "Improves strength",
+          "Supports muscle recovery",
+          "Reduces stress",
+          "Enhances mobility"
+        ],
         "safety": "Consult doctor before use"
       },
       {
         "name": "Boswellia (Shallaki)",
         "plantImage": "https://media.istockphoto.com/id/880547110/photo/frankincense-resin-isolated-on-white.jpg?s=612x612&w=0&k=20&c=VkyCratGZr902Xfj5mKpTsXMi1SdRm-wAXuuddOKxnk=",
-        "advicePoints": ["Take as supplement","Reduces joint pain","Improves flexibility","Supports cartilage health","Reduces swelling","Used in Ayurvedic treatment"],
+        "advicePoints": [
+          "Take as supplement",
+          "Reduces joint pain",
+          "Improves flexibility",
+          "Supports cartilage health",
+          "Reduces swelling",
+          "Used in Ayurvedic treatment"
+        ],
         "safety": "Consult doctor"
       },
       {
         "name": "Garlic",
         "plantImage": "https://media.istockphoto.com/id/183235420/photo/onion.jpg?s=612x612&w=0&k=20&c=sh-9ohb6BaCIJbBZuNNRk8nXsbqtKCgE4wOKdNAs7B8=",
-        "advicePoints": ["Consume raw daily","Reduces inflammation","Improves immunity","Supports joint health","Improves circulation","Helps reduce stiffness"],
+        "advicePoints": [
+          "Consume raw daily",
+          "Reduces inflammation",
+          "Improves immunity",
+          "Supports joint health",
+          "Improves circulation",
+          "Helps reduce stiffness"
+        ],
         "safety": "Avoid excess"
       },
       {
         "name": "Fenugreek",
         "plantImage": "https://media.istockphoto.com/id/1078186326/photo/bowl-with-fenugreek-seeds-close-up-used-for-cooking-and-traditinal-medicine-spices-collection.jpg?s=612x612&w=0&k=20&c=3nZfQXnItzqR2GQKiIAIHONqBnTwygs4P_R_oa-27ms=",
-        "advicePoints": ["Soak seeds overnight","Reduces pain","Improves digestion","Supports joint health","Reduces inflammation","Enhances flexibility"],
+        "advicePoints": [
+          "Soak seeds overnight",
+          "Reduces pain",
+          "Improves digestion",
+          "Supports joint health",
+          "Reduces inflammation",
+          "Enhances flexibility"
+        ],
         "safety": "Avoid excess"
       },
       {
         "name": "Flax Seeds",
         "plantImage": "https://media.istockphoto.com/id/1391657458/photo/grains-of-flaxseed-are-poured-into-the-wooden-bowl.jpg?s=612x612&w=0&k=20&c=Dx1utyAzG6t1u79OG9Crilf10JqbcWP5I-ecgU1YfEk=",
-        "advicePoints": ["Consume daily","Rich in omega-3","Reduces inflammation","Supports joint lubrication","Improves mobility","Good for heart health"],
+        "advicePoints": [
+          "Consume daily",
+          "Rich in omega-3",
+          "Reduces inflammation",
+          "Supports joint lubrication",
+          "Improves mobility",
+          "Good for heart health"
+        ],
         "safety": "Drink water"
       },
       {
         "name": "Eucalyptus Oil",
         "plantImage": "https://media.istockphoto.com/id/1053121442/photo/eucalyptus-essential-oil.jpg?s=612x612&w=0&k=20&c=Ih7UVq-2MBVgOudaQQQGz5D_aE1IhbgmKvVgLpKlYvM=",
-        "advicePoints": ["Apply externally","Relieves joint pain","Reduces swelling","Improves blood flow","Provides quick relief","Useful in massage therapy"],
+        "advicePoints": [
+          "Apply externally",
+          "Relieves joint pain",
+          "Reduces swelling",
+          "Improves blood flow",
+          "Provides quick relief",
+          "Useful in massage therapy"
+        ],
         "safety": "External use only"
       },
       {
         "name": "Guggul",
         "plantImage": "https://media.istockphoto.com/id/1299148060/photo/guggul-commiphora-wightii-resin-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a=",
-        "advicePoints": ["Take as tablet or powder","Reduces joint swelling","Detoxifies joints","Supports cartilage regeneration","Improves range of motion","Used in Ayurveda for arthritis"],
+        "advicePoints": [
+          "Take as tablet or powder",
+          "Reduces joint swelling",
+          "Detoxifies joints",
+          "Supports cartilage regeneration",
+          "Improves range of motion",
+          "Used in Ayurveda for arthritis"
+        ],
         "safety": "Consult doctor; avoid in pregnancy"
       },
       {
         "name": "Nirgundi (Vitex negundo)",
         "plantImage": "https://media.istockphoto.com/id/1182512345/photo/vitex-negundo-five-leaved-chaste-tree-nirgundi-plant.jpg?s=612x612&w=0&k=20&c=2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a=",
-        "advicePoints": ["Apply leaf paste on joints","Powerful anti-inflammatory","Reduces joint pain and swelling","Relieves muscle stiffness","Improves joint flexibility","Used in traditional Ayurvedic medicine"],
+        "advicePoints": [
+          "Apply leaf paste on joints",
+          "Powerful anti-inflammatory",
+          "Reduces joint pain and swelling",
+          "Relieves muscle stiffness",
+          "Improves joint flexibility",
+          "Used in traditional Ayurvedic medicine"
+        ],
         "safety": "Avoid during pregnancy"
       },
       {
         "name": "Castor Oil",
         "plantImage": "https://media.istockphoto.com/id/1134678823/photo/castor-oil-and-castor-plant-seeds-on-white-background.jpg?s=612x612&w=0&k=20&c=3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a=",
-        "advicePoints": ["Massage on affected joints","Reduces pain and swelling","Improves lymphatic drainage","Supports detoxification","Relieves chronic joint stiffness","Use warm for better results"],
+        "advicePoints": [
+          "Massage on affected joints",
+          "Reduces pain and swelling",
+          "Improves lymphatic drainage",
+          "Supports detoxification",
+          "Relieves chronic joint stiffness",
+          "Use warm for better results"
+        ],
         "safety": "External use preferred; consult for oral"
       },
       {
         "name": "Giloy (Guduchi)",
         "plantImage": "https://media.istockphoto.com/id/1285053028/photo/giloy-tinospora-cordifolia-plant-used-in-ayurveda.jpg?s=612x612&w=0&k=20&c=4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a=",
-        "advicePoints": ["Take as juice or tablet","Reduces autoimmune inflammation","Supports immune regulation","Detoxifies blood and joints","Relieves chronic joint pain","Improves overall vitality"],
+        "advicePoints": [
+          "Take as juice or tablet",
+          "Reduces autoimmune inflammation",
+          "Supports immune regulation",
+          "Detoxifies blood and joints",
+          "Relieves chronic joint pain",
+          "Improves overall vitality"
+        ],
         "safety": "Consult for autoimmune conditions"
       },
       {
         "name": "Triphala",
         "plantImage": "https://media.istockphoto.com/id/1170748452/photo/triphala-powder-churna-with-three-fruits-haritaki-bibhitaki-and-amalaki.jpg?s=612x612&w=0&k=20&c=5a5a5a5a5a5a5a5a5a5a5a5a5a5a5a5a5a5a5a5a=",
-        "advicePoints": ["Take with warm water at night","Detoxifies musculoskeletal system","Reduces oxidative stress in joints","Rich in antioxidants","Supports tissue repair","Improves digestion linked to joint health"],
+        "advicePoints": [
+          "Take with warm water at night",
+          "Detoxifies musculoskeletal system",
+          "Reduces oxidative stress in joints",
+          "Rich in antioxidants",
+          "Supports tissue repair",
+          "Improves digestion linked to joint health"
+        ],
         "safety": "Avoid during pregnancy"
       },
       {
         "name": "Amla (Indian Gooseberry)",
         "plantImage": "https://media.istockphoto.com/id/1169933943/photo/fresh-amla-fruits-indian-gooseberry-phyllanthus-emblica-on-white.jpg?s=612x612&w=0&k=20&c=6a6a6a6a6a6a6a6a6a6a6a6a6a6a6a6a6a6a6a6a=",
-        "advicePoints": ["Consume daily as juice or raw","Highest source of Vitamin C","Promotes collagen formation for joints","Reduces joint inflammation","Fights free radical damage","Strengthens connective tissues"],
+        "advicePoints": [
+          "Consume daily as juice or raw",
+          "Highest source of Vitamin C",
+          "Promotes collagen formation for joints",
+          "Reduces joint inflammation",
+          "Fights free radical damage",
+          "Strengthens connective tissues"
+        ],
         "safety": "Safe for most people"
       },
       {
         "name": "Sesame Seeds",
         "plantImage": "https://media.istockphoto.com/id/1133515696/photo/sesame-seeds-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a=",
-        "advicePoints": ["Consume daily or as oil massage","Rich in calcium and magnesium","Strengthens bones and joints","Reduces stiffness in mornings","Lubricates joint cartilage","Supports bone density"],
+        "advicePoints": [
+          "Consume daily or as oil massage",
+          "Rich in calcium and magnesium",
+          "Strengthens bones and joints",
+          "Reduces stiffness in mornings",
+          "Lubricates joint cartilage",
+          "Supports bone density"
+        ],
         "safety": "Safe in moderate amounts"
       },
       {
         "name": "Neem",
         "plantImage": "https://media.istockphoto.com/id/1144004218/photo/neem-leaves-with-neem-fruits-on-white-background.jpg?s=612x612&w=0&k=20&c=8a8a8a8a8a8a8a8a8a8a8a8a8a8a8a8a8a8a8a8a=",
-        "advicePoints": ["Take as supplement or apply oil","Reduces joint inflammation","Purifies blood toxins","Acts as natural pain reliever","Prevents infection in joints","Supports immune regulation"],
+        "advicePoints": [
+          "Take as supplement or apply oil",
+          "Reduces joint inflammation",
+          "Purifies blood toxins",
+          "Acts as natural pain reliever",
+          "Prevents infection in joints",
+          "Supports immune regulation"
+        ],
         "safety": "Avoid large internal doses"
       },
       {
         "name": "Cinnamon",
         "plantImage": "https://media.istockphoto.com/id/1191232132/photo/cinnamon-sticks-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=9a9a9a9a9a9a9a9a9a9a9a9a9a9a9a9a9a9a9a9a=",
-        "advicePoints": ["Add to warm milk or tea","Strong anti-inflammatory properties","Reduces joint swelling","Improves circulation to joints","Supports tissue healing","Helps manage rheumatoid arthritis"],
+        "advicePoints": [
+          "Add to warm milk or tea",
+          "Strong anti-inflammatory properties",
+          "Reduces joint swelling",
+          "Improves circulation to joints",
+          "Supports tissue healing",
+          "Helps manage rheumatoid arthritis"
+        ],
         "safety": "Avoid large doses"
       },
       {
         "name": "Black Pepper",
         "plantImage": "https://media.istockphoto.com/id/185297364/photo/full-image-of-peppercorns-as-a-background.jpg?s=612x612&w=0&k=20&c=ba1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a=",
-        "advicePoints": ["Add to meals or warm water","Contains piperine for inflammation","Enhances absorption of turmeric","Improves blood circulation","Reduces joint pain","Supports metabolic function"],
+        "advicePoints": [
+          "Add to meals or warm water",
+          "Contains piperine for inflammation",
+          "Enhances absorption of turmeric",
+          "Improves blood circulation",
+          "Reduces joint pain",
+          "Supports metabolic function"
+        ],
         "safety": "Avoid excess"
       },
       {
         "name": "Ajwain (Carom Seeds)",
         "plantImage": "https://media.istockphoto.com/id/1197345378/photo/carom-seeds-ajwain-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=ca1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a=",
-        "advicePoints": ["Soak in water overnight and drink","Reduces joint pain and swelling","Helps remove uric acid buildup","Beneficial in gout arthritis","Improves digestion and metabolism","Reduces morning stiffness"],
+        "advicePoints": [
+          "Soak in water overnight and drink",
+          "Reduces joint pain and swelling",
+          "Helps remove uric acid buildup",
+          "Beneficial in gout arthritis",
+          "Improves digestion and metabolism",
+          "Reduces morning stiffness"
+        ],
         "safety": "Avoid in excess heat conditions"
       },
       {
         "name": "Punarnava",
         "plantImage": "https://media.istockphoto.com/id/1207453012/photo/boerhavia-diffusa-punarnava-plant-isolated-on-white.jpg?s=612x612&w=0&k=20&c=da1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a=",
-        "advicePoints": ["Take as decoction or tablet","Reduces water retention in joints","Relieves swelling in knees and ankles","Supports kidney function","Acts as natural diuretic","Helps manage gout"],
+        "advicePoints": [
+          "Take as decoction or tablet",
+          "Reduces water retention in joints",
+          "Relieves swelling in knees and ankles",
+          "Supports kidney function",
+          "Acts as natural diuretic",
+          "Helps manage gout"
+        ],
         "safety": "Consult doctor for long-term use"
       },
       {
         "name": "Moringa",
         "plantImage": "https://media.istockphoto.com/id/1142236579/photo/moringa-oleifera-drumstick-leaves-isolated-on-white.jpg?s=612x612&w=0&k=20&c=ea1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a=",
-        "advicePoints": ["Take as powder or capsule","Rich in calcium for bone health","Reduces inflammatory markers","Supports collagen production","Provides essential amino acids","Strengthens muscles around joints"],
+        "advicePoints": [
+          "Take as powder or capsule",
+          "Rich in calcium for bone health",
+          "Reduces inflammatory markers",
+          "Supports collagen production",
+          "Provides essential amino acids",
+          "Strengthens muscles around joints"
+        ],
         "safety": "Avoid roots during pregnancy"
       },
       {
         "name": "Haritaki",
         "plantImage": "https://media.istockphoto.com/id/1183601234/photo/haritaki-terminalia-chebula-fruits-isolated-on-white.jpg?s=612x612&w=0&k=20&c=fa1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a=",
-        "advicePoints": ["Take with warm water","Powerful detoxifier for joints","Reduces uric acid levels","Helps in gouty arthritis","Supports digestive health linked to joints","Reduces oxidative stress"],
+        "advicePoints": [
+          "Take with warm water",
+          "Powerful detoxifier for joints",
+          "Reduces uric acid levels",
+          "Helps in gouty arthritis",
+          "Supports digestive health linked to joints",
+          "Reduces oxidative stress"
+        ],
         "safety": "Avoid during pregnancy and fasting"
       },
       {
         "name": "Shatavari",
         "plantImage": "https://media.istockphoto.com/id/1237890123/photo/asparagus-racemosus-shatavari-roots-isolated-on-white.jpg?s=612x612&w=0&k=20&c=ga1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a=",
-        "advicePoints": ["Take as powder with milk","Reduces inflammation in joints","Supports hormonal balance linked to arthritis","Lubricates joints naturally","Improves bone mineral density","Beneficial for women with arthritis"],
+        "advicePoints": [
+          "Take as powder with milk",
+          "Reduces inflammation in joints",
+          "Supports hormonal balance linked to arthritis",
+          "Lubricates joints naturally",
+          "Improves bone mineral density",
+          "Beneficial for women with arthritis"
+        ],
         "safety": "Consult for hormone-sensitive conditions"
       },
       {
         "name": "Dashmool",
         "plantImage": "https://media.istockphoto.com/id/1145678901/photo/dashmool-ten-roots-ayurvedic-formulation-herbs.jpg?s=612x612&w=0&k=20&c=ha1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a=",
-        "advicePoints": ["Take as decoction","Classic Ayurvedic joint formula","Reduces Vata-related joint pain","Improves nerve function in joints","Reduces muscle spasms","Restores joint mobility"],
+        "advicePoints": [
+          "Take as decoction",
+          "Classic Ayurvedic joint formula",
+          "Reduces Vata-related joint pain",
+          "Improves nerve function in joints",
+          "Reduces muscle spasms",
+          "Restores joint mobility"
+        ],
         "safety": "Use under Ayurvedic guidance"
       },
       {
         "name": "Honey",
         "plantImage": "https://media.istockphoto.com/id/2161304146/photo/natural-organic-honey-in-glass-jar-honey-dipper-and-honeycombs-are-near-natural-food.jpg?s=612x612&w=0&k=20&c=ia1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a=",
-        "advicePoints": ["Mix with cinnamon and apply","Natural anti-inflammatory agent","Reduces pain when taken with warm water","Boosts immunity against inflammation","Supports tissue healing","Acts as antioxidant for joints"],
+        "advicePoints": [
+          "Mix with cinnamon and apply",
+          "Natural anti-inflammatory agent",
+          "Reduces pain when taken with warm water",
+          "Boosts immunity against inflammation",
+          "Supports tissue healing",
+          "Acts as antioxidant for joints"
+        ],
         "safety": "Avoid in infants"
       },
       {
         "name": "Tulsi (Holy Basil)",
         "plantImage": "https://media.istockphoto.com/id/843955686/photo/thai-holy-basil-flowering-shining-over-dark-background.jpg?s=612x612&w=0&k=20&c=0ss20SutAmY6JNrxdLoWGAEgs5-SI-VKFUXyjzkW1ZA=",
-        "advicePoints": ["Consume as tea daily","Reduces systemic inflammation","Supports immune regulation","Relieves stress-triggered flare-ups","Has analgesic properties","Improves blood flow to joints"],
+        "advicePoints": [
+          "Consume as tea daily",
+          "Reduces systemic inflammation",
+          "Supports immune regulation",
+          "Relieves stress-triggered flare-ups",
+          "Has analgesic properties",
+          "Improves blood flow to joints"
+        ],
         "safety": "Safe in moderate amounts"
       },
       {
         "name": "Licorice (Mulethi)",
         "plantImage": "https://media.istockphoto.com/id/2044726936/photo/dry-organic-liquorice-or-mulethi-roots-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=oRIlsUkPeyP4-V6--2YsJOLxOxEh8EBayR1vGjIkFKQ=",
-        "advicePoints": ["Take as tea or powder","Acts as natural corticosteroid","Reduces autoimmune joint inflammation","Soothes connective tissues","Supports adrenal function","Reduces pain in rheumatoid arthritis"],
+        "advicePoints": [
+          "Take as tea or powder",
+          "Acts as natural corticosteroid",
+          "Reduces autoimmune joint inflammation",
+          "Soothes connective tissues",
+          "Supports adrenal function",
+          "Reduces pain in rheumatoid arthritis"
+        ],
         "safety": "Avoid in high blood pressure"
       },
       {
         "name": "Clove",
         "plantImage": "https://media.istockphoto.com/id/471346177/photo/cloves-closeup.jpg?s=612x612&w=0&k=20&c=ja1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a=",
-        "advicePoints": ["Use as oil for massage or in tea","Contains eugenol for pain relief","Reduces joint swelling","Improves local circulation","Has antimicrobial properties","Relieves nerve pain around joints"],
+        "advicePoints": [
+          "Use as oil for massage or in tea",
+          "Contains eugenol for pain relief",
+          "Reduces joint swelling",
+          "Improves local circulation",
+          "Has antimicrobial properties",
+          "Relieves nerve pain around joints"
+        ],
         "safety": "Use in moderation"
       }
     ]
   },
-
   "cold": {
     "diseaseImage": "https://media.istockphoto.com/id/1469093296/photo/young-girl-suffering-from-cold-by-sneezing-at-home-while-sleeping-on-bed-concept-of.jpg?s=612x612&w=0&k=20&c=fdvPA0s8udi2k_-rOwc840eZSdWa-XPviiJNjlxWoLQ=",
     "informationLink": "https://medlineplus.gov/commoncold.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Ginger",
         "plantImage": "https://media.istockphoto.com/id/175185924/photo/ginger.jpg?s=612x612&w=0&k=20&c=HdXF5_mKTqeRL_dUv4QWTNkORSvSP4UgX3DrCBX5P_Y=",
-        "advicePoints": ["Drink ginger tea","Relieves throat irritation","Reduces congestion","Improves immunity","Use fresh ginger","Take twice daily"],
+        "advicePoints": [
+          "Drink ginger tea",
+          "Relieves throat irritation",
+          "Reduces congestion",
+          "Improves immunity",
+          "Use fresh ginger",
+          "Take twice daily"
+        ],
         "safety": "Avoid excess"
       },
       {
         "name": "Tulsi",
         "plantImage": "https://media.istockphoto.com/id/1506951654/photo/a-closeup-top-shot-of-basil-plant-also-called-tulsi-plant-in-a-red-mud-pot-in-an-indian.jpg?s=612x612&w=0&k=20&c=ripPHfD_G7yq7T_wsyGqKNtKreARO06Mw_wskrSkDUI=",
-        "advicePoints": ["Boil leaves in water","Improves immunity","Relieves cold symptoms","Clears throat","Take daily","Supports respiratory health"],
+        "advicePoints": [
+          "Boil leaves in water",
+          "Improves immunity",
+          "Relieves cold symptoms",
+          "Clears throat",
+          "Take daily",
+          "Supports respiratory health"
+        ],
         "safety": "Safe in moderation"
       },
       {
         "name": "Honey",
         "plantImage": "https://media.istockphoto.com/id/598241944/photo/honey-in-jar-and-bunch-of-dry-lavender.jpg?s=612x612&w=0&k=20&c=gVg1BaJ78uniQbpfdFiYvMzim98gREdx-5c4ENBp2tE=",
-        "advicePoints": ["Take with warm water","Soothes throat","Reduces coughing","Boosts immunity","Improves recovery","Take before sleep"],
+        "advicePoints": [
+          "Take with warm water",
+          "Soothes throat",
+          "Reduces coughing",
+          "Boosts immunity",
+          "Improves recovery",
+          "Take before sleep"
+        ],
         "safety": "Avoid in infants"
       },
       {
         "name": "Turmeric",
         "plantImage": "https://media.istockphoto.com/id/1209080129/photo/indian-turmeric-roots-and-ground-to-powder.jpg?s=612x612&w=0&k=20&c=evkDqMCJqiJByANaU-ZVF_EglxsLbl4ypf27pGFtVDg=",
-        "advicePoints": ["Take turmeric milk","Boosts immunity","Reduces inflammation","Improves recovery","Acts as antiseptic","Take at night"],
+        "advicePoints": [
+          "Take turmeric milk",
+          "Boosts immunity",
+          "Reduces inflammation",
+          "Improves recovery",
+          "Acts as antiseptic",
+          "Take at night"
+        ],
         "safety": "Avoid excess"
       },
       {
         "name": "Garlic",
         "plantImage": "https://media.istockphoto.com/id/104822116/photo/close-up-of-purple-garlic-bunch.jpg?s=612x612&w=0&k=20&c=dSTSczpOxQSow9WuT-sYV4Rd9wETlXRsvNkjcSwCQTM=",
-        "advicePoints": ["Eat raw garlic","Fights infection","Boosts immunity","Improves recovery","Use daily","Supports respiratory health"],
+        "advicePoints": [
+          "Eat raw garlic",
+          "Fights infection",
+          "Boosts immunity",
+          "Improves recovery",
+          "Use daily",
+          "Supports respiratory health"
+        ],
         "safety": "Avoid excess"
       },
       {
         "name": "Clove",
         "plantImage": "https://media.istockphoto.com/id/471346177/photo/cloves-closeup.jpg?s=612x612&w=0&k=20&c=A9ndvh6JRULUPL7ZK0xb0uVyMjPyFUTnKyzg4fkbwfY=",
-        "advicePoints": ["Chew clove","Relieves throat pain","Reduces cough","Improves breathing","Use in tea","Supports immunity"],
+        "advicePoints": [
+          "Chew clove",
+          "Relieves throat pain",
+          "Reduces cough",
+          "Improves breathing",
+          "Use in tea",
+          "Supports immunity"
+        ],
         "safety": "Use moderately"
       },
       {
         "name": "Black Pepper",
         "plantImage": "https://media.istockphoto.com/id/185297364/photo/full-image-of-peppercorns-as-a-background.jpg?s=612x612&w=0&k=20&c=AM0TIldCmNuKNoen1MeCiBlbUs2gpAeJgHM5A3TZLf8=",
-        "advicePoints": ["Add to tea","Clears congestion","Improves digestion","Boosts immunity","Helps mucus removal","Use daily"],
+        "advicePoints": [
+          "Add to tea",
+          "Clears congestion",
+          "Improves digestion",
+          "Boosts immunity",
+          "Helps mucus removal",
+          "Use daily"
+        ],
         "safety": "Avoid excess"
       },
       {
         "name": "Cinnamon",
         "plantImage": "https://media.istockphoto.com/id/1191232132/photo/cinnamon-sticks-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=vEeNF8j0mc1fGFfXwGkZWnqFeWowTQl2UO63fePNveo=",
-        "advicePoints": ["Add to tea","Fights infection","Boosts immunity","Improves recovery","Supports respiratory health","Use regularly"],
+        "advicePoints": [
+          "Add to tea",
+          "Fights infection",
+          "Boosts immunity",
+          "Improves recovery",
+          "Supports respiratory health",
+          "Use regularly"
+        ],
         "safety": "Use moderately"
       },
       {
         "name": "Eucalyptus",
         "plantImage": "https://media.istockphoto.com/id/1269326749/photo/eucalyptus-plantation-for-wood-industry-in-brazils-countryside.jpg?s=612x612&w=0&k=20&c=gDZaDYa-biyVaMDmwdISqQUhqnb-xJVRkICAh3kZvzI=",
-        "advicePoints": ["Use as steam inhalation","Clears nasal blockage","Reduces sinus pressure","Improves breathing","Acts as natural decongestant","Relieves headache from cold"],
+        "advicePoints": [
+          "Use as steam inhalation",
+          "Clears nasal blockage",
+          "Reduces sinus pressure",
+          "Improves breathing",
+          "Acts as natural decongestant",
+          "Relieves headache from cold"
+        ],
         "safety": "Do not ingest directly"
       },
       {
         "name": "Licorice (Mulethi)",
         "plantImage": "https://media.istockphoto.com/id/2044726936/photo/dry-organic-liquorice-or-mulethi-roots-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=oRIlsUkPeyP4-V6--2YsJOLxOxEh8EBayR1vGjIkFKQ=",
-        "advicePoints": ["Chew or take as tea","Soothes inflamed throat","Reduces nasal discharge","Acts as expectorant","Boosts antiviral defense","Improves voice clarity"],
+        "advicePoints": [
+          "Chew or take as tea",
+          "Soothes inflamed throat",
+          "Reduces nasal discharge",
+          "Acts as expectorant",
+          "Boosts antiviral defense",
+          "Improves voice clarity"
+        ],
         "safety": "Avoid in high BP"
       },
       {
         "name": "Amla (Indian Gooseberry)",
         "plantImage": "https://media.istockphoto.com/id/1169933943/photo/fresh-amla-fruits-indian-gooseberry-phyllanthus-emblica-on-white.jpg?s=612x612&w=0&k=20&c=6a6a6a6a6a6a6a6a6a6a6a6a6a6a6a6a6a6a6a6a=",
-        "advicePoints": ["Consume as juice or raw daily","Highest natural source of Vitamin C","Boosts immune response against cold virus","Reduces duration of cold","Fights free radicals","Strengthens upper respiratory tract"],
+        "advicePoints": [
+          "Consume as juice or raw daily",
+          "Highest natural source of Vitamin C",
+          "Boosts immune response against cold virus",
+          "Reduces duration of cold",
+          "Fights free radicals",
+          "Strengthens upper respiratory tract"
+        ],
         "safety": "Safe for most people"
       },
       {
         "name": "Giloy (Guduchi)",
         "plantImage": "https://media.istockphoto.com/id/1285053028/photo/giloy-tinospora-cordifolia-plant-used-in-ayurveda.jpg?s=612x612&w=0&k=20&c=4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a=",
-        "advicePoints": ["Take as juice or tablet","Powerful immunomodulator","Reduces fever associated with cold","Fights viral infections","Detoxifies the body","Speeds up recovery"],
+        "advicePoints": [
+          "Take as juice or tablet",
+          "Powerful immunomodulator",
+          "Reduces fever associated with cold",
+          "Fights viral infections",
+          "Detoxifies the body",
+          "Speeds up recovery"
+        ],
         "safety": "Safe for most; consult for autoimmune"
       },
       {
         "name": "Ashwagandha",
         "plantImage": "https://media.istockphoto.com/id/1684694377/photo/commonly-known-as-ashwagandha-is-an-important-medicinal-plant-that-has-been-used-in-ayurved.jpg?s=612x612&w=0&k=20&c=MMZClWMSh4biqSY0Rjm5HDhqWVRIX-mnm2Dy5hYuP8c=",
-        "advicePoints": ["Take as powder with warm milk","Reduces stress weakening immunity","Strengthens immune defense","Improves energy during illness","Helps body adapt to infection","Supports faster recovery"],
+        "advicePoints": [
+          "Take as powder with warm milk",
+          "Reduces stress weakening immunity",
+          "Strengthens immune defense",
+          "Improves energy during illness",
+          "Helps body adapt to infection",
+          "Supports faster recovery"
+        ],
         "safety": "Avoid during pregnancy"
       },
       {
         "name": "Pippali (Long Pepper)",
         "plantImage": "https://media.istockphoto.com/id/1195506312/photo/long-pepper-piper-longum-on-white-background.jpg?s=612x612&w=0&k=20&c=2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a=",
-        "advicePoints": ["Use with honey as paste","Clears nasal and chest congestion","Helps remove mucus","Warms the body","Stimulates immune response","Improves lung function during cold"],
+        "advicePoints": [
+          "Use with honey as paste",
+          "Clears nasal and chest congestion",
+          "Helps remove mucus",
+          "Warms the body",
+          "Stimulates immune response",
+          "Improves lung function during cold"
+        ],
         "safety": "Avoid in excess heat conditions"
       },
       {
         "name": "Cardamom (Elaichi)",
         "plantImage": "https://media.istockphoto.com/id/157482836/photo/cardamom-pods.jpg?s=612x612&w=0&k=20&c=am1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m=",
-        "advicePoints": ["Chew pods or add to tea","Relieves nasal congestion","Freshens breath during cold","Soothes throat discomfort","Improves circulation","Has antimicrobial properties"],
+        "advicePoints": [
+          "Chew pods or add to tea",
+          "Relieves nasal congestion",
+          "Freshens breath during cold",
+          "Soothes throat discomfort",
+          "Improves circulation",
+          "Has antimicrobial properties"
+        ],
         "safety": "Safe in culinary amounts"
       },
       {
         "name": "Fenugreek (Methi)",
         "plantImage": "https://media.istockphoto.com/id/1162573982/photo/fenugreek-seeds-methi-dana-in-wooden-spoon-isolated-on-white.jpg?s=612x612&w=0&k=20&c=6m6m6m6m6m6m6m6m6m6m6m6m6m6m6m6m6m6m6m6m=",
-        "advicePoints": ["Drink soaked seed water","Reduces mucus production","Soothes sore throat","Provides warmth to body","Reduces cold symptoms","Supports respiratory health"],
+        "advicePoints": [
+          "Drink soaked seed water",
+          "Reduces mucus production",
+          "Soothes sore throat",
+          "Provides warmth to body",
+          "Reduces cold symptoms",
+          "Supports respiratory health"
+        ],
         "safety": "Avoid during pregnancy"
       },
       {
         "name": "Neem",
         "plantImage": "https://media.istockphoto.com/id/1144004218/photo/neem-leaves-with-neem-fruits-on-white-background.jpg?s=612x612&w=0&k=20&c=7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a=",
-        "advicePoints": ["Take as diluted juice","Strong antiviral and antibacterial","Purifies blood during infection","Reduces fever","Boosts immune cells","Speeds up recovery from cold"],
+        "advicePoints": [
+          "Take as diluted juice",
+          "Strong antiviral and antibacterial",
+          "Purifies blood during infection",
+          "Reduces fever",
+          "Boosts immune cells",
+          "Speeds up recovery from cold"
+        ],
         "safety": "Avoid large doses; not for children"
       },
       {
         "name": "Triphala",
         "plantImage": "https://media.istockphoto.com/id/1170748452/photo/triphala-powder-churna-with-three-fruits-haritaki-bibhitaki-and-amalaki.jpg?s=612x612&w=0&k=20&c=5a5a5a5a5a5a5a5a5a5a5a5a5a5a5a5a5a5a5a5a=",
-        "advicePoints": ["Take with warm water at night","Detoxifies upper respiratory tract","Rich in Vitamin C","Boosts immune response","Reduces severity of cold","Supports overall health"],
+        "advicePoints": [
+          "Take with warm water at night",
+          "Detoxifies upper respiratory tract",
+          "Rich in Vitamin C",
+          "Boosts immune response",
+          "Reduces severity of cold",
+          "Supports overall health"
+        ],
         "safety": "Avoid during pregnancy"
       },
       {
         "name": "Shankhpushpi",
         "plantImage": "https://media.istockphoto.com/id/1219345000/photo/shankhpushpi-convolvulus-pluricaulis-medicinal-herb-plant.jpg?s=612x612&w=0&k=20&c=fm1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m=",
-        "advicePoints": ["Take as syrup or powder","Reduces cold-related fatigue","Calms nervous system during illness","Improves sleep quality during cold","Reduces fever-induced restlessness","Supports brain function"],
+        "advicePoints": [
+          "Take as syrup or powder",
+          "Reduces cold-related fatigue",
+          "Calms nervous system during illness",
+          "Improves sleep quality during cold",
+          "Reduces fever-induced restlessness",
+          "Supports brain function"
+        ],
         "safety": "Avoid with certain medications"
       },
       {
         "name": "Moringa",
         "plantImage": "https://media.istockphoto.com/id/1142236579/photo/moringa-oleifera-drumstick-leaves-isolated-on-white.jpg?s=612x612&w=0&k=20&c=ea1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a=",
-        "advicePoints": ["Take as powder in warm water","Rich in Vitamin A and C for immunity","Reduces severity of respiratory infections","Provides energy during illness","Has anti-inflammatory properties","Supports faster recovery"],
+        "advicePoints": [
+          "Take as powder in warm water",
+          "Rich in Vitamin A and C for immunity",
+          "Reduces severity of respiratory infections",
+          "Provides energy during illness",
+          "Has anti-inflammatory properties",
+          "Supports faster recovery"
+        ],
         "safety": "Avoid roots during pregnancy"
       },
       {
         "name": "Vasaka (Malabar Nut)",
         "plantImage": "https://media.istockphoto.com/id/1182124029/photo/adhatoda-vasica-malabar-nut-medicinal-plant.jpg?s=612x612&w=0&k=20&c=1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m=",
-        "advicePoints": ["Take as leaf tea or extract","Clears nasal and chest congestion","Reduces sneezing and runny nose","Acts as natural antihistamine","Supports respiratory health","Reduces severity of cold"],
+        "advicePoints": [
+          "Take as leaf tea or extract",
+          "Clears nasal and chest congestion",
+          "Reduces sneezing and runny nose",
+          "Acts as natural antihistamine",
+          "Supports respiratory health",
+          "Reduces severity of cold"
+        ],
         "safety": "Avoid during pregnancy"
       },
       {
         "name": "Brahmi",
         "plantImage": "https://media.istockphoto.com/id/1222376735/photo/brahmi-bacopa-monnieri-plant-close-up.jpg?s=612x612&w=0&k=20&c=9m9m9m9m9m9m9m9m9m9m9m9m9m9m9m9m9m9m9m9m=",
-        "advicePoints": ["Take as syrup or capsule","Reduces stress lowering immunity","Improves cognitive function during illness","Supports nervous system","Helps in cold-related headaches","Improves sleep quality"],
+        "advicePoints": [
+          "Take as syrup or capsule",
+          "Reduces stress lowering immunity",
+          "Improves cognitive function during illness",
+          "Supports nervous system",
+          "Helps in cold-related headaches",
+          "Improves sleep quality"
+        ],
         "safety": "Avoid excessive doses"
       },
       {
         "name": "Haridra (Wild Turmeric)",
         "plantImage": "https://media.istockphoto.com/id/1307338077/photo/curcuma-aromatica-wild-turmeric-roots-isolated-on-white.jpg?s=612x612&w=0&k=20&c=em1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m=",
-        "advicePoints": ["Use as nasal drops or steam","Clears blocked nasal passages","Reduces sinus inflammation","Antihistamine properties","Relieves sneezing","Supports quick recovery from cold"],
+        "advicePoints": [
+          "Use as nasal drops or steam",
+          "Clears blocked nasal passages",
+          "Reduces sinus inflammation",
+          "Antihistamine properties",
+          "Relieves sneezing",
+          "Supports quick recovery from cold"
+        ],
         "safety": "Avoid in large quantities"
       },
       {
         "name": "Sesame Oil",
         "plantImage": "https://media.istockphoto.com/id/1133515696/photo/sesame-seeds-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a=",
-        "advicePoints": ["Use as nasal oil (Nasya)","Lubricates nasal passages","Prevents dry nasal mucosa","Reduces susceptibility to cold","Provides warmth to respiratory tract","Supports overall nasal health"],
+        "advicePoints": [
+          "Use as nasal oil (Nasya)",
+          "Lubricates nasal passages",
+          "Prevents dry nasal mucosa",
+          "Reduces susceptibility to cold",
+          "Provides warmth to respiratory tract",
+          "Supports overall nasal health"
+        ],
         "safety": "Safe for nasal use"
       },
       {
         "name": "Kutki",
         "plantImage": "https://media.istockphoto.com/id/1163782045/photo/picrorhiza-kurroa-kutki-roots-isolated-on-white.jpg?s=612x612&w=0&k=20&c=hm1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m=",
-        "advicePoints": ["Take as small dose powder","Reduces fever and infection","Potent immunostimulant","Supports liver detox during illness","Reduces allergic cold symptoms","Used in Ayurveda for respiratory infections"],
+        "advicePoints": [
+          "Take as small dose powder",
+          "Reduces fever and infection",
+          "Potent immunostimulant",
+          "Supports liver detox during illness",
+          "Reduces allergic cold symptoms",
+          "Used in Ayurveda for respiratory infections"
+        ],
         "safety": "Use only under supervision"
       },
       {
         "name": "Yashtimadhu (Licorice root)",
         "plantImage": "https://media.istockphoto.com/id/1219506890/photo/licorice-roots-glycyrrhiza-glabra-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=im1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m=",
-        "advicePoints": ["Take as tea or lozenge","Soothes sore and inflamed throat","Has antiviral properties","Reduces nasal irritation","Supports adrenal function during illness","Improves recovery time"],
+        "advicePoints": [
+          "Take as tea or lozenge",
+          "Soothes sore and inflamed throat",
+          "Has antiviral properties",
+          "Reduces nasal irritation",
+          "Supports adrenal function during illness",
+          "Improves recovery time"
+        ],
         "safety": "Avoid in hypertension"
       },
       {
         "name": "Pushkarmool",
         "plantImage": "https://media.istockphoto.com/id/1183400012/photo/inula-helenium-elecampane-roots-isolated-on-white.jpg?s=612x612&w=0&k=20&c=dm1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m=",
-        "advicePoints": ["Take as decoction","Clears respiratory congestion","Reduces chest heaviness in cold","Expectorant action","Supports lung health","Relieves cold-related fatigue"],
+        "advicePoints": [
+          "Take as decoction",
+          "Clears respiratory congestion",
+          "Reduces chest heaviness in cold",
+          "Expectorant action",
+          "Supports lung health",
+          "Relieves cold-related fatigue"
+        ],
         "safety": "Consult doctor for prolonged use"
       }
     ]
   },
-
   "cough": {
     "diseaseImage": "https://media.istockphoto.com/id/1059369662/photo/man-coughing-into-his-fist-isolated-on-a-gray-background.jpg?s=612x612&w=0&k=20&c=0D7jHBh1fsEYHD3iuVbkkxyUYQZOdndwMZ8n7zgEdiQ=",
     "informationLink": "https://medlineplus.gov/cough.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Licorice (Mulethi)",
         "plantImage": "https://media.istockphoto.com/id/950157166/photo/close-up-of-ayurvedic-herb-liquorice-root-licorice-root-mulethi-or-glycyrrhiza-glabra-root-on.jpg?s=612x612&w=0&k=20&c=KvFpENrvyKiuNY7VAOBtGpn6w2yoJb4PUWKrH6lALhM=",
-        "advicePoints": ["Chew small stick daily","Soothes throat irritation","Reduces dry cough","Acts as natural expectorant","Improves voice clarity","Use in tea form"],
+        "advicePoints": [
+          "Chew small stick daily",
+          "Soothes throat irritation",
+          "Reduces dry cough",
+          "Acts as natural expectorant",
+          "Improves voice clarity",
+          "Use in tea form"
+        ],
         "safety": "Avoid in high blood pressure"
       },
       {
         "name": "Honey",
         "plantImage": "https://media.istockphoto.com/id/842769074/photo/sweet-honeycomb-and-wooden-honey-dripping.jpg?s=612x612&w=0&k=20&c=GJwPKmbX02jYByrjIWLOf8xTHWqQEy3vN6cYajM6p7o=",
-        "advicePoints": ["Take with warm water","Soothes throat","Reduces cough frequency","Improves sleep","Boosts immunity","Take before bedtime"],
+        "advicePoints": [
+          "Take with warm water",
+          "Soothes throat",
+          "Reduces cough frequency",
+          "Improves sleep",
+          "Boosts immunity",
+          "Take before bedtime"
+        ],
         "safety": "Avoid in infants"
       },
       {
         "name": "Ginger",
         "plantImage": "https://media.istockphoto.com/id/154947950/photo/ginger-root-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=UpBqszkHEAkhzD349DV3XuhOuRy1-Lby0Pg6Jotb-8g=",
-        "advicePoints": ["Drink ginger tea","Reduces inflammation","Relieves throat pain","Improves immunity","Clears mucus","Take twice daily"],
+        "advicePoints": [
+          "Drink ginger tea",
+          "Reduces inflammation",
+          "Relieves throat pain",
+          "Improves immunity",
+          "Clears mucus",
+          "Take twice daily"
+        ],
         "safety": "Avoid excess"
       },
       {
         "name": "Tulsi",
         "plantImage": "https://media.istockphoto.com/id/1358553474/photo/stock-photo-of-holy-basil-plant-it-is-also-known-as-holy-tulsi-plant-or-ocimum-tenuiflorum.jpg?s=612x612&w=0&k=20&c=YABEHl_0mW4sqspbRUD2qKqmnyYLqu3EKHQANubCiRQ=",
-        "advicePoints": ["Boil leaves in water","Relieves cough","Improves respiratory health","Boosts immunity","Clears chest congestion","Use daily"],
+        "advicePoints": [
+          "Boil leaves in water",
+          "Relieves cough",
+          "Improves respiratory health",
+          "Boosts immunity",
+          "Clears chest congestion",
+          "Use daily"
+        ],
         "safety": "Safe in moderation"
       },
       {
         "name": "Black Pepper",
         "plantImage": "https://media.istockphoto.com/id/469858939/photo/black-pepper.jpg?s=612x612&w=0&k=20&c=GwF_EvFrYNtwTdY5DN9gRS1eJnRf949jUQeqgqoLExE=",
-        "advicePoints": ["Add to tea","Clears mucus","Improves throat health","Reduces cough","Boosts immunity","Use moderately"],
+        "advicePoints": [
+          "Add to tea",
+          "Clears mucus",
+          "Improves throat health",
+          "Reduces cough",
+          "Boosts immunity",
+          "Use moderately"
+        ],
         "safety": "Avoid excess"
       },
       {
         "name": "Turmeric",
         "plantImage": "https://media.istockphoto.com/id/1097907486/photo/fresh-root-and-turmeric-powder-indian-spice-healthy-seasoning-ingredient-for-vegan-cuisine.jpg?s=612x612&w=0&k=20&c=t9K5lSXrKZGSwmPOpcGy08A5vbmrzvI1z5tbU1l0T70=",
-        "advicePoints": ["Take turmeric milk","Reduces inflammation","Boosts immunity","Improves recovery","Acts as antiseptic","Use daily"],
+        "advicePoints": [
+          "Take turmeric milk",
+          "Reduces inflammation",
+          "Boosts immunity",
+          "Improves recovery",
+          "Acts as antiseptic",
+          "Use daily"
+        ],
         "safety": "Avoid excess"
       },
       {
         "name": "Clove",
         "plantImage": "https://media.istockphoto.com/id/538777150/photo/close-up-of-cloves-in-spoon-on-wooden-table.jpg?s=612x612&w=0&k=20&c=sMED-qRKDTM_fQ5pk-8H37KeMyWOMr9GlxJbvpv_4Kk=",
-        "advicePoints": ["Chew clove","Relieves throat pain","Reduces coughing","Improves breathing","Use in tea","Supports immunity"],
+        "advicePoints": [
+          "Chew clove",
+          "Relieves throat pain",
+          "Reduces coughing",
+          "Improves breathing",
+          "Use in tea",
+          "Supports immunity"
+        ],
         "safety": "Use moderately"
       },
       {
         "name": "Eucalyptus",
         "plantImage": "https://media.istockphoto.com/id/516117677/photo/eucalyptus-branch.jpg?s=612x612&w=0&k=20&c=NPhO4nmdRIcSSiK_Cx1f9SHpyRs82bmFsYCL0koZCPI=",
-        "advicePoints": ["Use steam inhalation","Clears nasal passage","Improves breathing","Reduces congestion","Relieves cough","Use carefully"],
+        "advicePoints": [
+          "Use steam inhalation",
+          "Clears nasal passage",
+          "Improves breathing",
+          "Reduces congestion",
+          "Relieves cough",
+          "Use carefully"
+        ],
         "safety": "Avoid direct ingestion"
       },
       {
         "name": "Vasaka (Malabar Nut)",
         "plantImage": "https://media.istockphoto.com/id/1182124029/photo/adhatoda-vasica-malabar-nut-medicinal-plant.jpg?s=612x612&w=0&k=20&c=1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m=",
-        "advicePoints": ["Take as leaf tea or syrup","Powerful bronchodilator","Reduces wet and dry cough","Expels phlegm from airways","Relieves chest congestion","Traditional cough remedy in Ayurveda"],
+        "advicePoints": [
+          "Take as leaf tea or syrup",
+          "Powerful bronchodilator",
+          "Reduces wet and dry cough",
+          "Expels phlegm from airways",
+          "Relieves chest congestion",
+          "Traditional cough remedy in Ayurveda"
+        ],
         "safety": "Avoid during pregnancy"
       },
       {
         "name": "Pippali (Long Pepper)",
         "plantImage": "https://media.istockphoto.com/id/1195506312/photo/long-pepper-piper-longum-on-white-background.jpg?s=612x612&w=0&k=20&c=2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a=",
-        "advicePoints": ["Mix with honey and take","Clears phlegm from throat","Reduces chronic cough","Warms respiratory tract","Stimulates lung function","Improves breathing"],
+        "advicePoints": [
+          "Mix with honey and take",
+          "Clears phlegm from throat",
+          "Reduces chronic cough",
+          "Warms respiratory tract",
+          "Stimulates lung function",
+          "Improves breathing"
+        ],
         "safety": "Avoid in excess heat conditions"
       },
       {
         "name": "Garlic",
         "plantImage": "https://media.istockphoto.com/id/104822116/photo/close-up-of-purple-garlic-bunch.jpg?s=612x612&w=0&k=20&c=dSTSczpOxQSow9WuT-sYV4Rd9wETlXRsvNkjcSwCQTM=",
-        "advicePoints": ["Consume raw or in warm water","Natural antibiotic for throat","Reduces persistent cough","Boosts immunity","Fights bacterial cough infections","Supports respiratory health"],
+        "advicePoints": [
+          "Consume raw or in warm water",
+          "Natural antibiotic for throat",
+          "Reduces persistent cough",
+          "Boosts immunity",
+          "Fights bacterial cough infections",
+          "Supports respiratory health"
+        ],
         "safety": "Avoid if stomach sensitive"
       },
       {
         "name": "Cinnamon",
         "plantImage": "https://media.istockphoto.com/id/1191232132/photo/cinnamon-sticks-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=9a9a9a9a9a9a9a9a9a9a9a9a9a9a9a9a9a9a9a9a=",
-        "advicePoints": ["Add to tea or warm milk","Has antimicrobial properties","Reduces throat inflammation","Improves blood flow to throat","Supports recovery from cough","Reduces allergic cough responses"],
+        "advicePoints": [
+          "Add to tea or warm milk",
+          "Has antimicrobial properties",
+          "Reduces throat inflammation",
+          "Improves blood flow to throat",
+          "Supports recovery from cough",
+          "Reduces allergic cough responses"
+        ],
         "safety": "Avoid large doses"
       },
       {
         "name": "Amla (Indian Gooseberry)",
         "plantImage": "https://media.istockphoto.com/id/1169933943/photo/fresh-amla-fruits-indian-gooseberry-phyllanthus-emblica-on-white.jpg?s=612x612&w=0&k=20&c=6a6a6a6a6a6a6a6a6a6a6a6a6a6a6a6a6a6a6a6a=",
-        "advicePoints": ["Consume daily as juice or raw","Rich in Vitamin C to fight infection","Reduces throat inflammation","Strengthens immune response","Helps clear respiratory tract","Acts as natural antioxidant"],
+        "advicePoints": [
+          "Consume daily as juice or raw",
+          "Rich in Vitamin C to fight infection",
+          "Reduces throat inflammation",
+          "Strengthens immune response",
+          "Helps clear respiratory tract",
+          "Acts as natural antioxidant"
+        ],
         "safety": "Safe for most people"
       },
       {
         "name": "Giloy (Guduchi)",
         "plantImage": "https://media.istockphoto.com/id/1285053028/photo/giloy-tinospora-cordifolia-plant-used-in-ayurveda.jpg?s=612x612&w=0&k=20&c=4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a=",
-        "advicePoints": ["Take as juice or tablet","Boosts immune response","Reduces allergic cough","Detoxifies respiratory system","Reduces fever with cough","Speeds up overall recovery"],
+        "advicePoints": [
+          "Take as juice or tablet",
+          "Boosts immune response",
+          "Reduces allergic cough",
+          "Detoxifies respiratory system",
+          "Reduces fever with cough",
+          "Speeds up overall recovery"
+        ],
         "safety": "Safe for most; consult for autoimmune"
       },
       {
         "name": "Ashwagandha",
         "plantImage": "https://media.istockphoto.com/id/1684694377/photo/commonly-known-as-ashwagandha-is-an-important-medicinal-plant-that-has-been-used-in-ayurved.jpg?s=612x612&w=0&k=20&c=MMZClWMSh4biqSY0Rjm5HDhqWVRIX-mnm2Dy5hYuP8c=",
-        "advicePoints": ["Take as powder with warm milk","Reduces stress worsening cough","Strengthens lung tissue","Improves stamina during illness","Supports immune function","Helps prevent recurrent cough"],
+        "advicePoints": [
+          "Take as powder with warm milk",
+          "Reduces stress worsening cough",
+          "Strengthens lung tissue",
+          "Improves stamina during illness",
+          "Supports immune function",
+          "Helps prevent recurrent cough"
+        ],
         "safety": "Avoid during pregnancy"
       },
       {
         "name": "Fenugreek (Methi)",
         "plantImage": "https://media.istockphoto.com/id/1162573982/photo/fenugreek-seeds-methi-dana-in-wooden-spoon-isolated-on-white.jpg?s=612x612&w=0&k=20&c=6m6m6m6m6m6m6m6m6m6m6m6m6m6m6m6m6m6m6m6m=",
-        "advicePoints": ["Drink soaked seed water","Reduces mucus buildup","Soothes irritated throat","Acts as mild expectorant","Reduces frequency of coughing","Supports respiratory health"],
+        "advicePoints": [
+          "Drink soaked seed water",
+          "Reduces mucus buildup",
+          "Soothes irritated throat",
+          "Acts as mild expectorant",
+          "Reduces frequency of coughing",
+          "Supports respiratory health"
+        ],
         "safety": "Avoid during pregnancy"
       },
       {
         "name": "Cardamom (Elaichi)",
         "plantImage": "https://media.istockphoto.com/id/157482836/photo/cardamom-pods.jpg?s=612x612&w=0&k=20&c=am1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m=",
-        "advicePoints": ["Chew or add to tea","Soothes throat lining","Has antiseptic properties","Reduces throat tickle triggering cough","Improves breathing","Clears respiratory congestion"],
+        "advicePoints": [
+          "Chew or add to tea",
+          "Soothes throat lining",
+          "Has antiseptic properties",
+          "Reduces throat tickle triggering cough",
+          "Improves breathing",
+          "Clears respiratory congestion"
+        ],
         "safety": "Safe in culinary amounts"
       },
       {
         "name": "Neem",
         "plantImage": "https://media.istockphoto.com/id/1144004218/photo/neem-leaves-with-neem-fruits-on-white-background.jpg?s=612x612&w=0&k=20&c=7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a=",
-        "advicePoints": ["Take as small diluted dose","Strong antibacterial for throat","Reduces infection-related cough","Purifies respiratory tract","Boosts immune defense","Prevents recurrent cough infections"],
+        "advicePoints": [
+          "Take as small diluted dose",
+          "Strong antibacterial for throat",
+          "Reduces infection-related cough",
+          "Purifies respiratory tract",
+          "Boosts immune defense",
+          "Prevents recurrent cough infections"
+        ],
         "safety": "Avoid large doses; not for children"
       },
       {
         "name": "Triphala",
         "plantImage": "https://media.istockphoto.com/id/1170748452/photo/triphala-powder-churna-with-three-fruits-haritaki-bibhitaki-and-amalaki.jpg?s=612x612&w=0&k=20&c=5a5a5a5a5a5a5a5a5a5a5a5a5a5a5a5a5a5a5a5a=",
-        "advicePoints": ["Take with warm water at bedtime","Detoxifies respiratory system","Reduces chronic cough","Rich in Vitamin C","Supports tissue healing in throat","Boosts overall immunity"],
+        "advicePoints": [
+          "Take with warm water at bedtime",
+          "Detoxifies respiratory system",
+          "Reduces chronic cough",
+          "Rich in Vitamin C",
+          "Supports tissue healing in throat",
+          "Boosts overall immunity"
+        ],
         "safety": "Avoid during pregnancy"
       },
       {
         "name": "Moringa",
         "plantImage": "https://media.istockphoto.com/id/1142236579/photo/moringa-oleifera-drumstick-leaves-isolated-on-white.jpg?s=612x612&w=0&k=20&c=ea1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a=",
-        "advicePoints": ["Take as powder in warm water","Rich in antioxidants for lung health","Reduces inflammatory cough","Strengthens immune system","Provides essential nutrients during illness","Supports faster recovery"],
+        "advicePoints": [
+          "Take as powder in warm water",
+          "Rich in antioxidants for lung health",
+          "Reduces inflammatory cough",
+          "Strengthens immune system",
+          "Provides essential nutrients during illness",
+          "Supports faster recovery"
+        ],
         "safety": "Avoid roots during pregnancy"
       },
       {
         "name": "Pushkarmool (Elecampane)",
         "plantImage": "https://media.istockphoto.com/id/1183400012/photo/inula-helenium-elecampane-roots-isolated-on-white.jpg?s=612x612&w=0&k=20&c=dm1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m=",
-        "advicePoints": ["Take as decoction or powder","Classic Ayurvedic cough remedy","Expels mucus from bronchi","Reduces chronic dry cough","Strengthens respiratory muscles","Relieves chest tightness"],
+        "advicePoints": [
+          "Take as decoction or powder",
+          "Classic Ayurvedic cough remedy",
+          "Expels mucus from bronchi",
+          "Reduces chronic dry cough",
+          "Strengthens respiratory muscles",
+          "Relieves chest tightness"
+        ],
         "safety": "Consult doctor for prolonged use"
       },
       {
         "name": "Bibhitaki",
         "plantImage": "https://media.istockphoto.com/id/1198764534/photo/terminalia-bellirica-baheda-bibhitaki-fruits-isolated-on-white.jpg?s=612x612&w=0&k=20&c=gm1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m=",
-        "advicePoints": ["Take as powder with honey","Excellent expectorant","Reduces wet cough and excess phlegm","Soothes bronchial tubes","Strengthens voice and throat","Part of Triphala — powerful combination"],
+        "advicePoints": [
+          "Take as powder with honey",
+          "Excellent expectorant",
+          "Reduces wet cough and excess phlegm",
+          "Soothes bronchial tubes",
+          "Strengthens voice and throat",
+          "Part of Triphala — powerful combination"
+        ],
         "safety": "Avoid in constipation"
       },
       {
         "name": "Haridra (Wild Turmeric)",
         "plantImage": "https://media.istockphoto.com/id/1307338077/photo/curcuma-aromatica-wild-turmeric-roots-isolated-on-white.jpg?s=612x612&w=0&k=20&c=em1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m=",
-        "advicePoints": ["Take as steam or nasal drops","Reduces allergic cough triggers","Clears upper respiratory tract","Anti-histamine properties","Reduces throat swelling","Supports long-term lung health"],
+        "advicePoints": [
+          "Take as steam or nasal drops",
+          "Reduces allergic cough triggers",
+          "Clears upper respiratory tract",
+          "Anti-histamine properties",
+          "Reduces throat swelling",
+          "Supports long-term lung health"
+        ],
         "safety": "Avoid in large quantities"
       },
       {
         "name": "Kutki",
         "plantImage": "https://media.istockphoto.com/id/1163782045/photo/picrorhiza-kurroa-kutki-roots-isolated-on-white.jpg?s=612x612&w=0&k=20&c=hm1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m=",
-        "advicePoints": ["Take as small dose powder","Reduces allergic and chronic cough","Potent anti-inflammatory for lungs","Improves immune regulation","Reduces eosinophil-related cough","Used in Ayurveda for respiratory conditions"],
+        "advicePoints": [
+          "Take as small dose powder",
+          "Reduces allergic and chronic cough",
+          "Potent anti-inflammatory for lungs",
+          "Improves immune regulation",
+          "Reduces eosinophil-related cough",
+          "Used in Ayurveda for respiratory conditions"
+        ],
         "safety": "Use only under supervision"
       },
       {
         "name": "Sesame Seeds",
         "plantImage": "https://media.istockphoto.com/id/1133515696/photo/sesame-seeds-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a=",
-        "advicePoints": ["Take with honey daily","Lubricates throat and airways","Reduces dry and scratchy cough","Provides warmth to respiratory tract","Rich in minerals for immunity","Beneficial in dry weather cough"],
+        "advicePoints": [
+          "Take with honey daily",
+          "Lubricates throat and airways",
+          "Reduces dry and scratchy cough",
+          "Provides warmth to respiratory tract",
+          "Rich in minerals for immunity",
+          "Beneficial in dry weather cough"
+        ],
         "safety": "Safe in moderate amounts"
       },
       {
         "name": "Shankhpushpi",
         "plantImage": "https://media.istockphoto.com/id/1219345000/photo/shankhpushpi-convolvulus-pluricaulis-medicinal-herb-plant.jpg?s=612x612&w=0&k=20&c=fm1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m1m=",
-        "advicePoints": ["Take as syrup or powder","Reduces stress-aggravated cough","Calms nervous system","Improves sleep disrupted by cough","Reduces night-time cough frequency","Supports overall respiratory wellness"],
+        "advicePoints": [
+          "Take as syrup or powder",
+          "Reduces stress-aggravated cough",
+          "Calms nervous system",
+          "Improves sleep disrupted by cough",
+          "Reduces night-time cough frequency",
+          "Supports overall respiratory wellness"
+        ],
         "safety": "Avoid with certain medications"
       },
       {
         "name": "Kantakari",
         "plantImage": "https://media.istockphoto.com/id/1170023482/photo/solanum-xanthocarpum-yellow-berried-nightshade-kantakari-herb.jpg?s=612x612&w=0&k=20&c=3m3m3m3m3m3m3m3m3m3m3m3m3m3m3m3m3m3m3m3m=",
-        "advicePoints": ["Take as decoction","Traditional bronchodilator","Reduces chronic and allergic cough","Expels phlegm effectively","Relieves chest tightness","Supports healthy lung function"],
+        "advicePoints": [
+          "Take as decoction",
+          "Traditional bronchodilator",
+          "Reduces chronic and allergic cough",
+          "Expels phlegm effectively",
+          "Relieves chest tightness",
+          "Supports healthy lung function"
+        ],
         "safety": "Consult doctor before use"
       }
     ]
-  }
-,
-
+  },
   "acidity": {
     "diseaseImage": "https://media.istockphoto.com/id/1899582356/photo/gerd-acidity-stomach-reflux-heartburn-ache.jpg?s=612x612&w=0&k=20&c=3OmYpfIui9Tw4DKt1UG-SgI01ZymZYYeqoohTkVYfTw=",
     "informationLink": "https://medlineplus.gov/heartburn.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Aloe Vera",
@@ -2366,6 +2931,7 @@
   "constipation": {
     "diseaseImage": "https://media.istockphoto.com/id/1328091327/photo/young-man-feels-uncomfortable-in-his-stomach-and-is-constipated-in-the-toilet.jpg?s=612x612&w=0&k=20&c=6nBVALem1-LXR4qDCzNUBeT1OUbDeWTdvhfpsf60cFg=",
     "informationLink": "https://medlineplus.gov/constipation.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Isabgol (Psyllium Husk)",
@@ -2736,6 +3302,7 @@
   "insomnia": {
     "diseaseImage": "https://media.istockphoto.com/id/629189620/photo/woman-in-bed-late-night-trying-to-sleep-suffering-insomnia.jpg?s=612x612&w=0&k=20&c=tuk0ce_uzgaE6cKIn6ELD8TLrPvyhRz-TwEzY2SByiI=",
     "informationLink": "https://medlineplus.gov/insomnia.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Ashwagandha",
@@ -3106,6 +3673,7 @@
   "anxiety": {
     "diseaseImage": "https://media.istockphoto.com/id/1185422927/photo/depressive-man.jpg?s=612x612&w=0&k=20&c=RJO_EsbyHzZYUZmcmOEBqQR2rwsH5QOz5rnQ1O7DevU=",
     "informationLink": "https://medlineplus.gov/anxiety.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Ashwagandha",
@@ -3472,12 +4040,11 @@
         "safety": "Safe"
       }
     ]
-  }
-,
-
+  },
   "depression": {
     "diseaseImage": "https://media.istockphoto.com/id/820808100/photo/sad-businessman-sitting-head-in-hands-on-the-bed-in-the-dark-bedroom-with-low-light.jpg?s=612x612&w=0&k=20&c=bVqvcehryhVEJtoDpI2aVeEvaMXbhXmudvLkdLpF0Qs=",
     "informationLink": "https://medlineplus.gov/depression.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "St. John's Wort",
@@ -3848,6 +4415,7 @@
   "obesity": {
     "diseaseImage": "https://media.istockphoto.com/id/1314797892/photo/obesity-unhealthy-weight-nutritionist-inspecting-a-womans-waist-using-a-meter-tape-to.jpg?s=612x612&w=0&k=20&c=1hsjTpScP_NJ-gYfMHStLV-fbyqi8iv1ORNJ2J06grE=",
     "informationLink": "https://medlineplus.gov/obesity.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Green Tea",
@@ -4218,6 +4786,7 @@
   "skin infection": {
     "diseaseImage": "https://media.istockphoto.com/id/1284084384/photo/annoyed-man-scratching-itch-on-his-arm.jpg?s=612x612&w=0&k=20&c=4ZHwfb9FmayJPTGd_uXmtd7gp0U0jhONaZnPHuGYr3Q=",
     "informationLink": "https://medlineplus.gov/skininfections.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Neem",
@@ -4587,7 +5156,8 @@
   },
   "hair fall": {
     "diseaseImage": "https://media.istockphoto.com/id/1345475766/photo/woman-have-damaged-and-broken-hair-loss-hair-dry-problem-concept.jpg?s=612x612&w=0&k=20&c=4Yzv2YXMKWkzfFsSmSPuEcFup3MvH4oJzhLYevKv8m8=",
-   "informationLink": "https://medlineplus.gov/hairloss.html",
+    "informationLink": "https://medlineplus.gov/hairloss.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Bhringraj",
@@ -4958,6 +5528,7 @@
   "thyroid": {
     "diseaseImage": "https://media.istockphoto.com/id/1098337094/photo/the-illustration-of-the-thyroid-is-on-the-woman-throat.jpg?s=612x612&w=0&k=20&c=ChG9f9kupKfyTptWzgKlK8OrXdVHXtGi-npAcNytLfE=",
     "informationLink": "https://medlineplus.gov/thyroiddiseases.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Ashwagandha",
@@ -5324,12 +5895,11 @@
         "safety": "Safe"
       }
     ]
-  }
-,
-  
+  },
   "fever": {
     "diseaseImage": "https://media.istockphoto.com/id/612409562/photo/sick-child-with-high-fever.jpg?s=612x612&w=0&k=20&c=DNchQeK5vlvWiBDdYvMKkNsC_-T5ZOFcOupnesSGLSY=",
     "informationLink": "https://medlineplus.gov/fever.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Giloy",
@@ -5697,10 +6267,10 @@
       }
     ]
   },
-
   "diarrhea": {
     "diseaseImage": "https://media.istockphoto.com/id/2150081409/photo/constipation-and-diarrhea-in-bathroom-hurt-man-touch-belly-stomach-ache-painful-colon.jpg?s=612x612&w=0&k=20&c=S2pJOyHYIKFBrrbewt3FzCbGknF7oIhQX7ZZzFqbzV0=",
     "informationLink": "https://medlineplus.gov/diarrhea.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Bael",
@@ -6068,10 +6638,10 @@
       }
     ]
   },
-
   "ulcer": {
-    "diseaseImage": "https://media.istockphoto.com/id/469355742/photo/mouth-ulcer.jpg",
+    "diseaseImage": "https://thumbs.dreamstime.com/b/woman-touching-stomach-painful-stomachach-suffering-stomachache-causes-menstruation-period-gastric-ulcer-appendicitis-128341188.jpg?w=992",
     "informationLink": "https://medlineplus.gov/pepticulcer.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Licorice",
@@ -6439,10 +7009,10 @@
       }
     ]
   },
-
   "kidney stones": {
-    "diseaseImage": "https://media.istockphoto.com/id/843352558/photo/kidney-stones.jpg",
+    "diseaseImage": "https://thumbs.dreamstime.com/b/kidney-22641666.jpg?w=576",
     "informationLink": "https://medlineplus.gov/kidneystones.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Punarnava",
@@ -6810,10 +7380,10 @@
       }
     ]
   },
-
   "liver disorder": {
-    "diseaseImage": "https://media.istockphoto.com/id/1448518908/photo/liver-cancer-hepatocellular-carcinoma-conditions-causes-and-treatment-3d-illustration.jpg",
+    "diseaseImage": "https://thumbs.dreamstime.com/b/liver-pain-abdominal-discomfort-hepatic-strain-organ-distress-bile-issue-jaundice-symptom-inflammation-detox-failure-cirrhosis-373368317.jpg?w=992",
     "informationLink": "https://medlineplus.gov/liverdiseases.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Milk Thistle",
@@ -7180,13 +7750,11 @@
         "safety": "Safe in moderate use"
       }
     ]
-  }
-,
-
- 
+  },
   "pcos": {
-    "diseaseImage": "https://media.istockphoto.com/id/1427707833/photo/hands-holding-uterus-female-reproductive-system.jpg",
+    "diseaseImage": "https://thumbs.dreamstime.com/b/doctor-holding-uterus-ovaries-model-ovarian-cervical-cancer-cervix-disorder-endometriosis-hysterectomy-uterine-fibroids-267992419.jpg?w=992",
     "informationLink": "https://medlineplus.gov/polycysticovarysyndrome.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Shatavari",
@@ -7554,10 +8122,10 @@
       }
     ]
   },
-
   "back pain": {
-    "diseaseImage": "https://media.istockphoto.com/id/1397841645/photo/backache.jpg",
+    "diseaseImage": "https://thumbs.dreamstime.com/b/back-pain-29514675.jpg?w=768",
     "informationLink": "https://medlineplus.gov/backpain.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Nirgundi",
@@ -7925,10 +8493,10 @@
       }
     ]
   },
-
   "eye strain": {
-    "diseaseImage": "https://media.istockphoto.com/id/1477581154/photo/tired-eyes.jpg",
+    "diseaseImage": "https://thumbs.dreamstime.com/b/woman-suffering-eye-strain-her-laptop-young-removing-eyeglasses-to-rub-eyes-finger-pained-46472250.jpg?w=992",
     "informationLink": "https://medlineplus.gov/eyecare.html",
+    "disclaimer": "Before taking any medicine, herb or home remedy, please consult your doctor first. This information is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. Do not stop or change your prescribed medicines without your doctor's advice.",
     "herbs": [
       {
         "name": "Triphala",
